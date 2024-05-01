@@ -32,4 +32,16 @@ Explainable Artificial Intelligence and Domain Adaptation for Predicting HIV Inf
 
 * GAT: run_chicago_transfer_gat.sh
 
+# Implementation:
+
+## Packages
+
+For Domain Adaptation:
+
+Python3.8+, torch 2.0.1+, and corresponding versions of scikit-learn, pandas, and numpy
+
+For Domain Adaptation:
+
+Python3.6+, Tensorflow1.14+ and corresponding versions of scipy, scikit-learn, numpy,
+
 
