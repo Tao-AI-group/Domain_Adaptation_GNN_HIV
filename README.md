@@ -36,12 +36,12 @@ Explainable Artificial Intelligence and Domain Adaptation for Predicting HIV Inf
 
 ## Packages
 
-For GAT on individual cities and GNNExplainer:
+**For GAT on individual cities and GNNExplainer**:
 
-Python3.8+, torch 2.0.1+, and corresponding versions of scikit-learn, pandas, and numpy
+* Python3.8+, torch 2.0.1+, and corresponding versions of scikit-learn, pandas, and numpy
 
-For others (baseline LR/RF and all domain adaptation models):
+**For others (baseline LR/RF and all domain adaptation models)**:
 
-Python3.6+, Tensorflow1.14+ and corresponding versions of scipy, scikit-learn, numpy,
+* Python3.6+, Tensorflow1.14+ and corresponding versions of scipy, scikit-learn, numpy,
 
 
