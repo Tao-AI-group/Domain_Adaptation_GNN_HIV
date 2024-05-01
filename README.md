@@ -1,12 +1,12 @@
 # Domain_Adaptation_GNN_HIV
 Explainable Artificial Intelligence and Domain Adaptation for Predicting HIV Infection with Graph Neural Networks
 
-# Methods:
+# Methods
 * Logistic Regression (LR)
 * Random Forest (RF)
 * Graph Attention Networks (GAT)
 
-# Commands to Run Code:
+# Commands to Run Code
 
 **Baseline Machine Learning (LR + RF) on individual cities:**
 
@@ -32,15 +32,15 @@ Explainable Artificial Intelligence and Domain Adaptation for Predicting HIV Inf
 
 * GAT: run_chicago_transfer_gat.sh
 
-# Implementation:
+# Implementation
 
 ## Packages
 
-For Domain Adaptation:
+For GAT on individual cities and GNNExplainer:
 
 Python3.8+, torch 2.0.1+, and corresponding versions of scikit-learn, pandas, and numpy
 
-For Domain Adaptation:
+For others (baseline LR/RF and all domain adaptation models):
 
 Python3.6+, Tensorflow1.14+ and corresponding versions of scipy, scikit-learn, numpy,
 
