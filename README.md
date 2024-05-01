@@ -24,15 +24,15 @@ Explainable Artificial Intelligence and Domain Adaptation for Predicting HIV Inf
 
   **(Houston is source city and Chicago is target city):**
 
-    * LR/RF: run_houston_transfer_lr_rf.sh
+   * LR/RF: run_houston_transfer_lr_rf.sh
 
-    * GAT: run_houston_transfer_gat.sh
+   * GAT: run_houston_transfer_gat.sh
 
   **(Chicago is source city and Houston is target city):**
 
-    * LR/RF: run_chicago_transfer_lr_rf.sh
+   * LR/RF: run_chicago_transfer_lr_rf.sh
 
-    * GAT: run_chicago_transfer_gat.sh
+   * GAT: run_chicago_transfer_gat.sh
 
 # Implementation
 
