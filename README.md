@@ -20,7 +20,9 @@ Explainable Artificial Intelligence and Domain Adaptation for Predicting HIV Inf
 * Gnnexplainer.ipynb (plots for Figure 2 are generated in this file)
 
 
-**Graph Neural Network (GNN) Domain Adaptation (Houston is source city and Chicago is target city):**
+**Graph Neural Network (GNN) Domain Adaptation** 
+
+**(Houston is source city and Chicago is target city):**
 
 * LR/RF: run_houston_transfer_lr_rf.sh
 
