@@ -12,17 +12,11 @@ Explainable Artificial Intelligence and Domain Adaptation for Predicting HIV Inf
 
 * run_chicago_convent.sh
 
-* run_houston_convent.sh
-
-
-
+* run_houston_convent.sh <br/><br/>
 
 **Graph Attention Network (GAT) on individual cities and GNNExplainer:**
 
-* Gnnexplainer.ipynb (plots for Figure 2 are generated in this file)
-
-
-
+* Gnnexplainer.ipynb (plots for Figure 2 are generated in this file) <br/><br/>
 
 **Graph Neural Network (GNN) Domain Adaptation** 
 
